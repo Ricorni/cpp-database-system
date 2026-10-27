@@ -2,3 +2,4 @@ app
 *.exe
 *.o
 .vscode/
+vs.code/
